@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #
 # mp32ogg.py - Convert a directory tree full of mp3s to a directory tree full of *.oggs with 22050 Hz and mono.
 #
